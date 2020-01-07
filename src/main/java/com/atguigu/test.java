@@ -5,7 +5,7 @@ public class test {
         System.out.println("dugujiujian");
         System.out.println("aaaaaa");
         System.out.println("aaaabbaa");
-        System.out.println("aaaaaa");
+        System.out.println("aaaaaba");
     }
 
 }
